@@ -1,13 +1,14 @@
 
 * number guesing game
 
-**dokumenta saturs
+** dokumenta saturs
   
 ** saturs
 
-****1.aprakstīt spēli
+**** 1.aprakstīt spēli
 
-  jautra spele, kas attīsta domāšanas
+jautra spele, kas attīsta domāšanas
+
 **** 2.spēles loģika
 
 **** spēles loģika ir aprakstīta šajā kodā:
