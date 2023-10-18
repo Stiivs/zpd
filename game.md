@@ -1,18 +1,15 @@
+## Izvedot number guessing spēli ar Python programmēšanas valodu
 
-* number guesing game
+### Dokumenta saturs
 
-** dokumenta saturs
-  
-** saturs
+#### 1. Spēles apraksts
+Interesenta spēlē kas atīsta loģiku.
 
-**** 1.aprakstīt spēli
+#### 2. Spēles loģika
 
-jautra spele, kas attīsta domāšanas
+Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
 
-**** 2.spēles loģika
-
-**** spēles loģika ir aprakstīta šajā kodā:
-
+Spēles loģika ir labi aprakstīta sājā kodā:
 import random
 
 number = random.randint(1, 100)
