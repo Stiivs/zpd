@@ -1,0 +1,17 @@
+import random
+
+number = random.randint(1, 100)
+guess = 0
+tries = 0
+
+while guess != number:
+    if guess < number:
+        print("pamēģini lielāku skaitli")
+    else:
+        print("pamēģini mazāku skaitli")
+        
+    guess = int(input("Uzmini skaitli: "))
+    tries += 1
+else:
+    print(f"tu uzminēji pēc {tries} reizēm")
+    print("tu uzmininēji")
